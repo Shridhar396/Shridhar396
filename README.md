@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shridhar Dalvi</h1>
 <h3 align="center">Crafting innovative solutions, one commit at a time.</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dldmQ0NTByM2U1YWt6Z2p1M2ZzajM2c2Y4eG55b25xZ3RkYWhjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ImAnYWlmD40QPJYbVf/giphy.gif" alt="Pudgy Penguin coding with AI" width="350">
+  <img src="https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m" alt="Pudgy Penguin coding with AI" width="350">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shridhar396&label=Profile%20views&color=0e75b6&style=flat" alt="shridhar396" /> </p>
