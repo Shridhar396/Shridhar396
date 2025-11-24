@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shridhar Dalvi</h1>
 <h3 align="center">Crafting innovative solutions, one commit at a time.</h3>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjljZzBnaTMxdzY2cWFha2Nuenh1cjk2Zmc3OTZwdmR5cWhtNmNrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Coding Animation GIF" width="400">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZlbzVibXU3OTI1Z2F0bHJ0emhkOTVudmpvbmFramN3ZTlhNWF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" alt="New GIPHY Animation GIF" width="400">
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shridhar396" alt="shridhar396" /></a> </p>
 
